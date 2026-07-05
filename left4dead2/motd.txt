@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>KO L4D2</title>
+</head>
+<body style="margin:0px;padding:1px;background:#000000; color:#ffffff;">
+<img src="https://cdn.knockout.chat/hotlink-ok/ads/lmaopics.jpg" alt="knockout.chat">
+<h1>Welcome to Knockout Left 4 Dead 2</h1>
+<p>Chat commands: /csm</p>
+<p>!motd - reopen this window.</h1>
+<p>!imlost or !ptg - draw survivor path to goal.</h1>
+<p>!rtv - rock the vote.</h1>
+<p>!nominate - select maps for rtv.</h1>
+<p>!csm - character select menu.</h1>
+<p>!sm_votemode - vote to change gamemode.</h1>
+<p>!afk - go AFK.</h1>
+<p>!join - join Survivor team.</h1>
+<p>!infected - join Infected team.</h1>
+<p>!observe - join Observer team.</h1>
+<p>!zs and !zss - suicide as survivor and infected.</h1>
+<p>!zm - vote to enable/disable Zombie Master.</h1>
+<p>!wskin - change weapon skins.</h1>
+</body>
+</html>
