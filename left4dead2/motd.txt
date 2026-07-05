@@ -3,7 +3,7 @@
 <title>KO L4D2</title>
 </head>
 <body style="margin:0px;padding:1px;background:#000000; color:#ffffff;">
-<img src="https://cdn.knockout.chat/hotlink-ok/ads/lmaopics.jpg" alt="knockout.chat">
+<img src="http://cdn.knockout.chat/hotlink-ok/ads/lmaopics.jpg" alt="knockout.chat">
 <h1>Welcome to Knockout Left 4 Dead 2</h1>
 <p>Chat commands: /csm</p>
 <p>!motd - reopen this window.</h1>
